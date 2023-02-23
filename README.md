@@ -1,9 +1,17 @@
 # DeepLearning-OS
-程序设计课设  芝士`README`
+芝士`README`，主要用于介绍项目架构及组成。
+
+开源许可：<a href="https://996.icu"><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5a81f0fbb85047d7a42e29b9a57cc7d6~tplv-k3u1fbpfcp-zoom-1.image"></a>
+
+鉴定为 `996.icu` license
+
+# System Design
+
+![](./img/System%20Design%20Initialize.png)
 
 ---
 
-# 需求分析报告
+# 项目需求分析报告
 
 ---
 
@@ -95,6 +103,7 @@
 - 市场可行性：分析项目在市场上的竞争情况和市场需求，评估项目的市场前景和商业模式是否可行。
 - 法律可行性：评估项目的法律合规性，包括相关法律法规、知识产权等方面，确保项目在法律上符合规范。
 - 时间可行性：评估项目的时间成本和进度计划，包括项目开发、测试、上线等各个环节的时间安排和任务分配，确保项目在规定时间内按时完成。
-
 ---
+
+
 
