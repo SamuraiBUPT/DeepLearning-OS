@@ -3,4 +3,12 @@ project(Deep_Learning_OS)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(Deep_Learning_OS main.cpp pkg_1/pkg_1.h pkg_1/pkg_1.cpp)
+set(SOURCES
+        src/hello.cpp
+        src/main.cpp)
+
+add_executable(Deep_Learning_OS ${SOURCES})
+
+target_include_directories(Deep_Learning_OS
+        PRIVATE
+        ${PROJECT_SOURCE_DIR}/include)

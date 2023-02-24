@@ -7,7 +7,7 @@
 
 # System Design
 
-![](./img/System%20Design%20Initialize.png)
+![](docs/img/System%20Design%20Initialize.png)
 
 ---
 
