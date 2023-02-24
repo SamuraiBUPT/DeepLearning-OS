@@ -12,4 +12,8 @@ Hello::Hello() {
             << std::endl;
 }
 
+Hello::~Hello() {
+    delete[] this->ptr_arr;
+}
+
 
