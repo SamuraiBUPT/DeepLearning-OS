@@ -10,3 +10,10 @@
 4. 电脑本机VSCode进行远程ssh连接至虚拟机的Ubuntu系统
 5. 通过VSCode + 连接虚拟机的方式，实现在Linux环境下开发C++项目的目的。
 6. 通过`sftp` - VSCode工具进行虚拟机与实体机的文件交互传输。（代码完成后拷贝至本机，完成push操作）
+
+# 有关branch
+已设置`debug`分支为default branch，因为主要是在这里进行开发，而不是在`master` branch。
+
+这么做的目的是方便查看代码，不用每次都switch到`debug`分支来。
+
+项目成熟以后，考虑与`master` branch合并。
