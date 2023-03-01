@@ -1,0 +1,14 @@
+# 基于Ubuntu 20.04镜像构建
+FROM ubuntu:20.04
+
+RUN apt-get update
+
+RUN apt update
+
+RUN build-essential
+
+WORKDIR /app
+
+COPY . /app
+
+CMD ["bash"]

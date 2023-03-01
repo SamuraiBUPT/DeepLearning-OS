@@ -22,3 +22,25 @@
 这么做的目的是方便查看代码，不用每次都switch到`debug`分支来。
 
 项目成熟以后，考虑与`master` branch合并。
+
+
+
+---
+
+### Con - version:
+
+Develop - Env:
+
+Windows + VSCode + Docker(Linux - Ubuntu20.04)
+
+
+
+Possible Solutions:
+
+Use Multiboot to boot the OS.
+
+Use LD Script to do that how does the specified linker combine object files and library files into an executable or shared library.
+
+---
+
+*To be continued, modified at any time...*
