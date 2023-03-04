@@ -13,5 +13,5 @@ We are now building an Operating System, now it's at starting stage because we h
 `loader.s`, `Makefile`, `linker.ld` are used to connect.
 
 ## Interrupt
-`interrupts.h`, `interrupts.cpp`, `interruptstubs.s` are now the files we are working on.
+`interrupts.h`, `interrupts.cpp`, `interruptstubs.s` are now the files we are working on, problem has been solved, and we are now developing the hardware communicating works.
 
